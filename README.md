@@ -12,10 +12,6 @@ Sou estudante de Ciência da Computação, atualmente no 2º período, e estou d
 - Git
 - GitHub
 - HTML semântico
-- Formulários HTML
-- Estruturação de páginas web
-- Versionamento de código
-- Branches, commits e Pull Requests
 
 ## Projetos
 
