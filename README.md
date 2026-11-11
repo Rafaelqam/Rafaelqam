@@ -12,6 +12,8 @@ Sou estudante de Ciência da Computação, atualmente no 2º período, e estou d
 - Git
 - GitHub
 - HTML semântico
+- python
+- SQL
 
 ## Formação
 
