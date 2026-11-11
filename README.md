@@ -13,30 +13,6 @@ Sou estudante de Ciência da Computação, atualmente no 2º período, e estou d
 - GitHub
 - HTML semântico
 
-## Projetos
-
-### Catálogo de Peças de Computador
-
-Projeto desenvolvido durante as atividades acadêmicas com o objetivo de criar uma aplicação web para apresentar peças e componentes de computador.
-
-**Tecnologias utilizadas:**
-
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-
-**Recursos desenvolvidos:**
-
-- Catálogo de peças de computador
-- Imagens dos componentes
-- Estrutura HTML semântica
-- Formulário
-- Tabela de comparação
-- Vídeo incorporado por URL do YouTube
-- Versionamento utilizando Git e GitHub
-
 ## Formação
 
 **Ciência da Computação**  
